@@ -15,10 +15,9 @@ body {
   justify-content: space-around; }
   .menu li { list-style: none; }
   a { text-decoration: none; }
-  a:hover{color:white;
+  a:hover{color:rgba(229, 255, 0, 0.925);
     text-decoration: underline; }
   .site-subtitle,
   .site-title{text-align: center; 
   color: blck;}
   .site-subtitle{font-style: italic;}
-  

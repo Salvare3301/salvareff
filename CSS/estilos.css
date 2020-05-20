@@ -1,14 +1,21 @@
+/* soft reset do css */
+
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
 body {
-    background-image:url('https://ww.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
+    background-image: url('C:\Users\Emulador\Desktop\Imersao-CSS\img\slogo.jpg');
     background-size: auto 90vh;
     font-family: Arial;} 
   
-  .menu { background-color: red; }
+  .menu { background-color:black; }
   .menu ul {display: flex;
   justify-content: space-around; }
   .menu li { list-style: none; }
   a { text-decoration: none; }
-  a:hover{color: teal;
+  a:hover{color:white;
     text-decoration: underline; }
   .site-subtitle,
   .site-title{text-align: center; 
